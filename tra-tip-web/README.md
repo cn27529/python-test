@@ -29,7 +29,3 @@ startTime=00:00
 &query=%E6%9F%A5%E8%A9%A2_csrf=012faecd-4671-4939-b480-b64e28fd5d78
 &startStation=3300-%E8%87%BA%E4%B8%AD
 &sort=departureTime,asc
-
-'\n\n\n\n\n區間 2114\n(\n彰化\n→\n基隆\n)\n\n\n\n\n05:23\n06:18\n55 分\n山線\n\n詳細\n\n\n\n\n$ 77\n\n\n\n$ 39\n\n\n\n$ 39\n\n\n\n'
-
-<https://tip.railway.gov.tw/tra-tip-web/tip/tip001/tip112/querybytime?transfer=ONE&trainTypeList=ALL&startOrEndTime=true&queryClassification=NORMAL&startStation=4080-嘉義&endStation=3160-苗栗&rideDate=2023/10/10&startTime=00:00&endTime=23:59&sort=departureTime,asc>
